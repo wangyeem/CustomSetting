@@ -1,0 +1,3 @@
+mac: https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
+
+windows: https://github.com/shadowsocksr-rm/shadowsocksr-csharp
